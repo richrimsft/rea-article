@@ -533,11 +533,7 @@ required questions are open.
 
 **"REA has 130K stars" (@zodchiii), "154K" (@woody_research)**: **Outdated.** GitHub API: 204,103 at 5:43 PM ET (earlier project check) and **204,859 at 6:28 PM ET** (my capture), Oct 13. The README's own banner still says "180,000"
 
-**"Unlocked TradingView premium / free premium indicators" (@Bober_smart)**: **Excluded.** That's paywall/license circumvention, which REA's DISCLAIMER explicitly rules out. I won't show it
-
 **"Opus 5.5: $5.60 vs $43.20 for a 400K-token RE session"**: **Confirmed**, *within the 5-minute cache window* (see below)
-
-**"$10M AI trading desk" video**: **A paper-trading demo.** The dashboard is labeled *DESK · PAPER BOOK*. Nothing shows live returns
 
 **"List every tracker inside an APK" (@woody_research)**: **Not a documented REA feature.** `inspect_android_package` reports declarations, permissions and classes. Spotting tracker SDKs is your own inference
 
